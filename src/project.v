@@ -1,6 +1,6 @@
 // Code your design here
 // A simple 4-bit binary counter chip
-module counter (
+module tt_um_gundurao_nandani_counter (
     input clk,          // Clock signal input (heartbeat)
     input reset,        // Reset signal input
     output reg [3:0] out // 4-bit output (counts from 0000 to 1111)
